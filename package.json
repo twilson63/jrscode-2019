@@ -1,0 +1,9 @@
+{
+  "name": "jrscode-2019",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "tslide": "^1.5.0"
+  }
+}
