@@ -19,6 +19,8 @@ https://fpjs.now.sh
 * Pure functions
 * Side Effects
 * Declarative Coding
+* Immutability
+* Closures and Higher Order Functions
 
 ---
 
