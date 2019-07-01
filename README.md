@@ -23,6 +23,7 @@ npm run slides
 
 ## Requirements
 
+* Git
 * NodeJS
 * Code Editor
 * JavaScript Basics
