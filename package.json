@@ -7,6 +7,8 @@
     "tslide": "^1.5.0"
   },
   "scripts": {
-    "slides": "tslide slides/index.md"
+    "slides": "tslide slides/index.md",
+    "day2": "tslide slides/day2.md",
+    "day3": "tslide slides/day3.md"
   }
 }

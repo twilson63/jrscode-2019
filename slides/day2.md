@@ -10,6 +10,17 @@ https://fpjs.now.sh
 
 ---
 
+# Review Day 1
+
+* Understanding Functions
+* What is the difference between a procedure and function?
+* What is a pure function?
+* What is a higher order function?
+* What is immutability mean?
+* What is a closure?
+
+---
+
 ## What is currying?
 
 ---
@@ -131,8 +142,11 @@ The act of combining one or more functions to create a more complex function:
 f(g(x)) = compose(f,g)(x)
 ```
 
-If we have a value and call a function that returns a value then we pass that in to another function that returns a value, we can leverage math to understand that if we combine or compose those methods together we can create a very nice abstration to declaratively represent passing a value from 
-one function and the result of that function being passed to another function.
+If we have a value and call a function that returns a value then we pass that 
+in to another function that returns a value, we can leverage math to understand 
+that if we combine or compose those methods together we can create a very nice 
+abstration to declaratively represent passing a value from one function and the 
+result of that function being passed to another function.
 
 This gives us that lego like feel when building complex algorithms.
 
